@@ -1,7 +1,7 @@
 # Pit Vipers
 It's literally just some sick lookin sunglasses :)
 
-![THE GOODS](https://voxint.net/images/hotlink-ok/vpm/pit-vipers.png)
+![THE GOODS](https://voxint.net/images/hotlink-ok/vpm/pit-vipers2.png)
 
 ## How To Use
 - Add VRCFury to your project ([https://vrcfury.com/download](https://vrcfury.com/download))
