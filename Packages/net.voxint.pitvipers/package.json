@@ -1,0 +1,12 @@
+{
+  "name": "net.voxint.pitvipers",
+  "displayName": "Pit Vipers",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "It's literally just some sick lookin sunglasses :)",
+  "vrchatVersion": "2022.1.1",
+  "author": {
+    "name": "voxel",
+    "url": "https://github.com/netshepsky/VRC-PitVipers"
+  }
+}
