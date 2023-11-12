@@ -1,6 +1,8 @@
 # Pit Vipers
 It's literally just some sick lookin sunglasses :)
 
+![THE GOODS](https://voxint.net/images/hotlink-ok/vpm/pit-vipers.png)
+
 ## How To Use
 - Add VRCFury to your project ([https://vrcfury.com/download](https://vrcfury.com/download))
 - Add Poiyomi toon shader to your project 
@@ -10,6 +12,9 @@ It's literally just some sick lookin sunglasses :)
 - Open the project in Unity
 - Go to Packages -> Pit Vipers -> Assets
 - Drag the "Pit Vipers" prefab object into your scene heirarchy. Then drag it under your avatar root
+- Turn on the disabled "Pit Vipers" object (so you can see what you're doing)
+- Move/scale the game object until the glasses are in the desired spot
+- Turn the pit vipers game object back off (the child object, not the one with the VRCFury component on it)
 - ???
 - PROFIT. NOW YOU LOOK SICK AS FUCK (toggle them on in your radial menu, under Clothing -> Pit Vipers)
 
