@@ -3,7 +3,8 @@ It's literally just some sick lookin sunglasses :)
 
 ## How To Use
 - Add VRCFury to your project ([https://vrcfury.com/download](https://vrcfury.com/download))
-- Add ([https://github.com/poiyomi/PoiyomiToonShader/releases/download/V8.1.167/poi_Toon_7.3.50_To_8.1.167.unitypackage](Poiyomi toon shader)) to your project
+- Add Poiyomi toon shader to your project 
+    - ([https://github.com/poiyomi/PoiyomiToonShader/releases/download/V8.1.167/poi_Toon_7.3.50_To_8.1.167.unitypackage](https://github.com/poiyomi/PoiyomiToonShader/releases/download/V8.1.167/poi_Toon_7.3.50_To_8.1.167.unitypackage))
 - Add my VPM repository ([https://vpm.voxint.net/](https://vpm.voxint.net/)) through the Creator Companion app
 - Go to "Manage Project", then click add next to the "Pit Vipers" package
 - Open the project in Unity
