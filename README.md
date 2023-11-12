@@ -19,7 +19,7 @@ It's literally just some sick lookin sunglasses :)
 - PROFIT. NOW YOU LOOK SICK AS FUCK (toggle them on in your radial menu, under Clothing -> Pit Vipers)
 
 # Sources
-Glasses model: [https://sketchfab.com/3d-models/pit-viper-style-glasses-5a4c994f0b7342f48783325f4b001731](https://sketchfab.com/3d-models/pit-viper-style-glasses-5a4c994f0b7342f48783325f4b001731)
+Glasses model by Linnaeus - [https://sketchfab.com/3d-models/pit-viper-style-glasses-5a4c994f0b7342f48783325f4b001731](https://sketchfab.com/3d-models/pit-viper-style-glasses-5a4c994f0b7342f48783325f4b001731)
 
 # Planned changes
 - Adding blendshapes to adjust the position of the glasses arms
