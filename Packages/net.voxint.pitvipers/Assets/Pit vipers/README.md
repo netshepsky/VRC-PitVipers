@@ -1,13 +1,7 @@
-# Pit Vipers
-It's literally just some sick lookin sunglasses :)
-
 ## How To Use
 - Add VRCFury to your project ([https://vrcfury.com/download](https://vrcfury.com/download))
 - Add Poiyomi toon shader to your project 
     - ([https://github.com/poiyomi/PoiyomiToonShader/releases/download/V8.1.167/poi_Toon_7.3.50_To_8.1.167.unitypackage](https://github.com/poiyomi/PoiyomiToonShader/releases/download/V8.1.167/poi_Toon_7.3.50_To_8.1.167.unitypackage))
-- Add my VPM repository ([https://vpm.voxint.net/](https://vpm.voxint.net/)) through the Creator Companion app
-- Go to "Manage Project", then click add next to the "Pit Vipers" package
-- Open the project in Unity
 - Go to the Prefabs folder (Packages -> Pit Vipers -> Assets -> Pit vipers -> Prefabs)
 - Drag the "Default" prefab object into your scene heirarchy. Then drag it under your avatar root
     - The "Default" prefab is suitable for most avatars and you can configure it yourself
