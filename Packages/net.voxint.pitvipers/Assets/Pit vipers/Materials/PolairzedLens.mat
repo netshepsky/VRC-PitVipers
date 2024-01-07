@@ -7,23 +7,28 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: RedGreenLens
-  m_Shader: {fileID: 4800000, guid: 3c2eb24965f89234e89529a550ec4b5f, type: 3}
+  m_Name: PolairzedLens
+  m_Shader: {fileID: 4800000, guid: 5df5d4fd3165d8c4c94c2ebdd61e05e4, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords:
+  - MOCHIE_PBR
+  - VIGNETTE_MASKED
   - _LIGHTINGMODE_FLAT
+  - _RIM2STYLE_POIYOMI
+  - _RIMSTYLE_POIYOMI
   - _STOCHASTICMODE_DELIOT_HEITZ
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 2450
   stringTagMap:
-    AllLockedGUIDS: e98f29fd84d852a41b4bc31ec17044a4,9548fc2aeda7e3f498d77bf18de48d5e
-    OriginalKeywords: _LIGHTINGMODE_FLAT _STOCHASTICMODE_DELIOT_HEITZ
+    AllLockedGUIDS: 847802e9c25c05c42b49f269a45f21c7
+    OriginalKeywords: MOCHIE_PBR VIGNETTE_MASKED _LIGHTINGMODE_FLAT _RIM2STYLE_POIYOMI
+      _RIMSTYLE_POIYOMI _STOCHASTICMODE_DELIOT_HEITZ
     OriginalShader: .poiyomi/Poiyomi 8.1/Poiyomi Toon
-    RenderType: TransparentCutout
+    RenderType: Opaque
     _MochieMetallicMaps_texPack_a_channel: 4
     _MochieMetallicMaps_texPack_a_fallback: 1
     _MochieMetallicMaps_texPack_a_inverted: False
