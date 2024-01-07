@@ -10,10 +10,15 @@ It's literally just some sick lookin sunglasses :)
 - Add my VPM repository ([https://vpm.voxint.net/](https://vpm.voxint.net/)) through the Creator Companion app
 - Go to "Manage Project", then click add next to the "Pit Vipers" package
 - Open the project in Unity
-- Go to Packages -> Pit Vipers -> Assets
-- Drag the "Pit Vipers" prefab object into your scene heirarchy. Then drag it under your avatar root
+- Go to Packages -> Pit Vipers -> Assets -> Prefabs
+- Drag the "Default" prefab object into your scene heirarchy. Then drag it under your avatar root
+    - The "Default" prefab is suitable for most avatars and you can configure it yourself
+    - If your avatar is one of the ones listed in the Prefabs folder (also below), then you should use the prefab from that folder instead
+    - Model specific prefabs have been created for the following avatars:
+        - Novabeast
 - Turn on the disabled "Pit Vipers" object (so you can see what you're doing)
 - Move/scale the game object until the glasses are in the desired spot
+- (Optional) Change the color of the lens material by using one of the provided materials in the "Materials" folder (or make your own, I don't care lol)
 - Turn the pit vipers game object back off (the child object, not the one with the VRCFury component on it)
 - ???
 - PROFIT! NOW YOU LOOK SICK AS FUCK (toggle them on in your radial menu, under Clothing -> Pit Vipers)
