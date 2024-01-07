@@ -25,4 +25,8 @@
 10. PROFIT! NOW YOU LOOK SICK AS FUCK (toggle them on in your radial menu, under Clothing -> Pit Vipers)
 
 # Sources
-Glasses model by Linnaeus - [https://sketchfab.com/3d-models/pit-viper-style-glasses-5a4c994f0b7342f48783325f4b001731](https://sketchfab.com/3d-models/pit-viper-style-glasses-5a4c994f0b7342f48783325f4b001731)
+Glasses model by [Linnaeus](https://sketchfab.com/3d-models/pit-viper-style-glasses-5a4c994f0b7342f48783325f4b001731)
+
+# Licensing
+- Glasses 3D model - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+- Everything else - [GNU LGPLv3](https://choosealicense.com/licenses/lgpl-3.0/)
