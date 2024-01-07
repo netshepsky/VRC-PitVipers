@@ -8,24 +8,20 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: RedGreenLens
-  m_Shader: {fileID: 4800000, guid: 5ca92f1e9fc35504aba297fd1acd62df, type: 3}
+  m_Shader: {fileID: 4800000, guid: 3c2eb24965f89234e89529a550ec4b5f, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords:
-  - MOCHIE_PBR
-  - VIGNETTE_MASKED
+  m_ValidKeywords: []
+  m_InvalidKeywords:
   - _LIGHTINGMODE_FLAT
-  - _RIM2STYLE_POIYOMI
-  - _RIMSTYLE_POIYOMI
   - _STOCHASTICMODE_DELIOT_HEITZ
-  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 2450
   stringTagMap:
-    OriginalKeywords: MOCHIE_PBR VIGNETTE_MASKED _LIGHTINGMODE_FLAT _RIM2STYLE_POIYOMI
-      _RIMSTYLE_POIYOMI _STOCHASTICMODE_DELIOT_HEITZ
+    AllLockedGUIDS: e98f29fd84d852a41b4bc31ec17044a4,9548fc2aeda7e3f498d77bf18de48d5e
+    OriginalKeywords: _LIGHTINGMODE_FLAT _STOCHASTICMODE_DELIOT_HEITZ
     OriginalShader: .poiyomi/Poiyomi 8.1/Poiyomi Toon
     RenderType: TransparentCutout
     _MochieMetallicMaps_texPack_a_channel: 4
@@ -325,7 +321,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: fabef525b88df43468044d9ba541c23c, type: 3}
+        m_Texture: {fileID: 2800000, guid: a1c3607e8575e8944be5f2b03dcd7d17, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Matcap:
@@ -2150,7 +2146,7 @@ Material:
     - _Set_RimLightMaskChannel: 1
     - _Set_RimLightMaskUV: 0
     - _ShadeColor_Step: 0
-    - _ShaderOptimizerEnabled: 0
+    - _ShaderOptimizerEnabled: 1
     - _ShaderUIWarning0: -0
     - _ShaderUIWarning1: -0
     - _ShadingEnabled: 1
