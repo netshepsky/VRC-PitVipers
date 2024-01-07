@@ -8,5 +8,9 @@
   "author": {
     "name": "voxel",
     "url": "https://github.com/netshepsky/VRC-PitVipers"
+  },
+  "dependencies": {
+    "com.vrcfury.vrcfury": "1.685.0",
+    "com.poiyomi.toon": "8.1.167"
   }
 }
