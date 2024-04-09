@@ -1,8 +1,9 @@
 ## Setup Guide
 1. Add the following community repositories to your VRChat Creator Companion app (go to each of the below URL's and click "Add to VCC")
     - VRCFury - `https://vcc.vrcfury.com`
-    - Poiyomi Toon Shader - `https://poiyomi.github.io/vpm`
     - voxel's VPM registry - `https://vpm.voxint.net`
+    - Poiyomi Toon Shader - `https://poiyomi.github.io/vpm`
+      - *Warning: If you already have Poiyomi installed from a .unitypackage, installing the VCC package will remove it!*
 2. Go to "Manage Project", then click the plus button next to the following packages:
     - VRCFury
     - Poiyomi Toon Shader
