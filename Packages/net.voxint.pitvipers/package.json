@@ -1,16 +1,16 @@
 {
   "name": "net.voxint.pitvipers",
   "displayName": "Pit Vipers",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "unity": "2022.3",
-  "description": "It's literally just some sick lookin sunglasses :)",
+  "description": "It's literally some sick lookin sunglasses :)",
   "vrchatVersion": "2023.4.2p2",
   "author": {
     "name": "voxel",
     "url": "https://github.com/netshepsky/VRC-PitVipers"
   },
-  "dependencies": {
-    "com.vrcfury.vrcfury": "1.685.0",
-    "com.poiyomi.toon": "8.1.167"
+  "vpmDependencies" : {
+    "com.vrcfury.vrcfury" : "1.832.0",
+    "com.poiyomi.toon" : "9.0.57"
   }
 }
