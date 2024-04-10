@@ -1,9 +1,9 @@
 {
   "name": "net.voxint.pitvipers",
   "displayName": "Pit Vipers",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "unity": "2022.3",
-  "description": "It's literally some sick lookin sunglasses :)",
+  "description": "Some sick looking sunglasses :)",
   "vrchatVersion": "2023.4.2p2",
   "author": {
     "name": "voxel",
