@@ -20,9 +20,11 @@
    - Unpack the prefab completely (Right-click `Pit Vipers (Poseable)` in the hierarchy, then Prefab -> Unpack completely)
    - Move/scale the parent game object until the glasses are in the desired spot
    - Adjust the blendshapes on the `Pit Vipers` child object until you have the desired look
-   - Right click on `Pit Vipers` in the hierarchy, then Mesh Baker -> Bake mesh
-     - If you hate performance and want to waste an extra skinned mesh renderer slot, then skip this step I guess lol
+   - Finally, right click on `Pit Vipers` in the hierarchy, then Mesh Baker -> Bake mesh
+      - Name the exported file and put it somewhere in your assets folder. It doesn't really matter where
+      - If you hate performance and want to waste an extra skinned mesh renderer slot, then skip this step I guess lol
 8. If you want your glasses to be poseable, click `Glasses Bone`, then drag the `Pit Vipers` child object from the hierarchy into `Element 0` under the Ignore Transforms section
+   - If you have Gesture Manager installed, you may wish to put the scene in play mode at this point and make sure the glasses pivot as you intend
 9. (Optional) Change the color of different parts of the glasses using one of the provided materials in the "Materials" folder or make your own
 10. ???
 11. PROFIT! NOW YOU LOOK SICK AS FUCK (toggle them on in your radial menu, under Clothing -> Pit Vipers)
