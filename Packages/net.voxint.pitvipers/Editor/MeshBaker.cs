@@ -40,6 +40,7 @@ namespace Editor
             var bakedMeshObject = new GameObject(originalName);
             bakedMeshObject.transform.parent = parentObject;
             bakedMeshObject.transform.SetPositionAndRotation(originalTransform.position, originalTransform.rotation);
+            bakedMeshObject.transform.localScale = originalTransform.localScale;
             var meshFilter = Undo.AddComponent<MeshFilter>(bakedMeshObject);
             meshFilter.mesh = bakeMesh;
             var meshRenderer = Undo.AddComponent<MeshRenderer>(bakedMeshObject);
