@@ -1,9 +1,11 @@
 // source: https://forum.unity.com/threads/exporting-skinned-mesh-to-obj-with-blendshapes-applyed-skinnedmeshrenderer-bakemesh.219033/#post-3500333
 
-using UnityEditor;
 using UnityEngine;
+#if UNITY_EDITOR
+using UnityEditor;
+#endif
 
-namespace Editor
+namespace net.voxint.MeshBaker
 {
     public class MeshBaker : EditorWindow
     {
@@ -19,8 +21,7 @@ namespace Editor
                     return;
             }
 
-            if (!EditorUtility.DisplayDialog("Mesh Baker",
-                    "Are you sure you want to bake the mesh?", "Yes", "No")) return;
+            if (!EditorUtility.DisplayDialog("Mesh Baker", "Are you sure you want to bake the mesh?", "Yes", "No")) return;
 
             var selectedObject = Selection.gameObjects[0];
             var originalTransform = selectedObject.transform;
