@@ -10,11 +10,8 @@
    - Pit Vipers
 3. Open the project in Unity
 4. In your Project pane, go to the Prefabs folder (`Packages -> Pit Vipers -> Assets -> Prefabs`)
-
-5. Find the existing model specific prefab under the `Prefabs` folder. Existing model specific prefabs include:
-   - Novabeast
-   - _If your model isn't listed, use the `Pit Vipers (Poseable)` prefab instead_
-6. **Drag the desired prefab object into the root of your scene hierarchy first. Then drag it under your avatar's head bone**
+5. Find the `Pit Vipers (Poseable)` prefab under the `Prefabs` folder
+6. **Drag the prefab object into the root of your scene hierarchy first. Then drag it under your avatar's head bone**
 
 7. If you're using the default prefab:
    - Unpack the prefab completely (Right-click `Pit Vipers (Poseable)` in the hierarchy, then Prefab -> Unpack completely)
@@ -30,8 +27,9 @@
 11. PROFIT! NOW YOU LOOK SICK AS FUCK (toggle them on in your radial menu, under Clothing -> Pit Vipers)
 
 # Sources
-Original glasses model by [Linnaeus](https://sketchfab.com/3d-models/pit-viper-style-glasses-5a4c994f0b7342f48783325f4b001731)
-Remeshing/UV mapping work by @netshepsky
+- Original glasses model by [Linnaeus](https://sketchfab.com/3d-models/pit-viper-style-glasses-5a4c994f0b7342f48783325f4b001731)
+- Remeshing/UV mapping work by [@netshepsky](https://github.com/netshepsky)
+- Material atlassing by [MrRocketFX](https://github.com/MrRocketFX)
 
 # Licensing
 - Glasses 3D model - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
